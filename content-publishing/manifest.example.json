@@ -1,0 +1,15 @@
+{
+  "published_url": "https://blog.naver.com/YOUR_BLOG_ID/123456789",
+  "category": "작가 > 책리뷰",
+  "thumbnail": "00_thumbnail.png",
+  "images": ["00_thumbnail.png", "01.png", "02.png", "03.png", "04.png"],
+  "screenshot": "published.png",
+  "checks": {
+    "source_read": false, "range_verified": false, "duplicate_checked": false,
+    "text_checked": false, "image_text_checked": false,
+    "thumbnail_dimensions_checked": false, "heading_styles_checked": false,
+    "divider_alignment_checked": false, "closing_font_checked": false,
+    "citation_font_checked": false, "public_post_opened": false,
+    "published_images_checked": false
+  }
+}

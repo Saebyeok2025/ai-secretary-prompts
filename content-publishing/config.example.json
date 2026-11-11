@@ -1,0 +1,11 @@
+{
+  "source_root": "C:/YOUR_PRIVATE_BOOK_FOLDER",
+  "blog_url": "https://blog.naver.com/YOUR_BLOG_ID",
+  "category": "작가 > 책리뷰",
+  "timezone": "Asia/Seoul",
+  "start_time": "07:30",
+  "books": [
+    {"id": "crypto", "title": "하룻밤에 읽는 가상화폐의 미래", "source": "가상화폐이야기_첫출간/하룻밤에읽는가상화폐이야기_재교2.pdf", "total_chapters": 46, "chapters_per_post": 2},
+    {"id": "dopamine", "title": "도파미네이션", "source": "인문과학_도파미네이션_통합.pdf", "total_chapters": 9, "chapters_per_post": 1}
+  ]
+}
